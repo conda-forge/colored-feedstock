@@ -1,11 +1,11 @@
-About colored
-=============
+About colored-feedstock
+=======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/colored-feedstock/blob/main/LICENSE.txt)
 
 Home: https://gitlab.com/dslackw/colored
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/colored-feedstock/blob/main/LICENSE.txt)
 
 Summary: Simple library for color and formatting to terminal
 
